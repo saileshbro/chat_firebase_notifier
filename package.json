@@ -1,0 +1,26 @@
+{
+  "name": "chat_firebase_notifier",
+  "version": "1.0.0",
+  "description": "Cloud functions handler for firebase chat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saileshbro/chat_firebase_notifier.git"
+  },
+  "keywords": [
+    "firebase",
+    "chat",
+    "handler",
+    "functions",
+    "fcm"
+  ],
+  "author": "Sailesh Dahal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saileshbro/chat_firebase_notifier/issues"
+  },
+  "homepage": "https://github.com/saileshbro/chat_firebase_notifier#readme"
+}
